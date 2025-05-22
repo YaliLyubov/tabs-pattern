@@ -3,9 +3,12 @@ body{
 }
 h1{
     text-align: center;
+    color: blue;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .price {
-  padding: 100px 300px;
+  padding: 0 200px 20px;
   position: relative;
 }
 .list {
